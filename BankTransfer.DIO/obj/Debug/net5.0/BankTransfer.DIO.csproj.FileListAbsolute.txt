@@ -1,0 +1,16 @@
+C:\Users\gabri\Documents\Projetos C#\BankTransfer\BankTransfer.DIO\bin\Debug\net5.0\BankTransfer.DIO.exe
+C:\Users\gabri\Documents\Projetos C#\BankTransfer\BankTransfer.DIO\bin\Debug\net5.0\BankTransfer.DIO.deps.json
+C:\Users\gabri\Documents\Projetos C#\BankTransfer\BankTransfer.DIO\bin\Debug\net5.0\BankTransfer.DIO.runtimeconfig.json
+C:\Users\gabri\Documents\Projetos C#\BankTransfer\BankTransfer.DIO\bin\Debug\net5.0\BankTransfer.DIO.runtimeconfig.dev.json
+C:\Users\gabri\Documents\Projetos C#\BankTransfer\BankTransfer.DIO\bin\Debug\net5.0\BankTransfer.DIO.dll
+C:\Users\gabri\Documents\Projetos C#\BankTransfer\BankTransfer.DIO\bin\Debug\net5.0\ref\BankTransfer.DIO.dll
+C:\Users\gabri\Documents\Projetos C#\BankTransfer\BankTransfer.DIO\bin\Debug\net5.0\BankTransfer.DIO.pdb
+C:\Users\gabri\Documents\Projetos C#\BankTransfer\BankTransfer.DIO\obj\Debug\net5.0\BankTransfer.DIO.csprojAssemblyReference.cache
+C:\Users\gabri\Documents\Projetos C#\BankTransfer\BankTransfer.DIO\obj\Debug\net5.0\BankTransfer.DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Projetos C#\BankTransfer\BankTransfer.DIO\obj\Debug\net5.0\BankTransfer.DIO.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Projetos C#\BankTransfer\BankTransfer.DIO\obj\Debug\net5.0\BankTransfer.DIO.AssemblyInfo.cs
+C:\Users\gabri\Documents\Projetos C#\BankTransfer\BankTransfer.DIO\obj\Debug\net5.0\BankTransfer.DIO.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Projetos C#\BankTransfer\BankTransfer.DIO\obj\Debug\net5.0\BankTransfer.DIO.dll
+C:\Users\gabri\Documents\Projetos C#\BankTransfer\BankTransfer.DIO\obj\Debug\net5.0\ref\BankTransfer.DIO.dll
+C:\Users\gabri\Documents\Projetos C#\BankTransfer\BankTransfer.DIO\obj\Debug\net5.0\BankTransfer.DIO.pdb
+C:\Users\gabri\Documents\Projetos C#\BankTransfer\BankTransfer.DIO\obj\Debug\net5.0\BankTransfer.DIO.genruntimeconfig.cache
