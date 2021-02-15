@@ -60,8 +60,8 @@ namespace BankTransfer.DIO
         }
 
         public override string ToString(){
-            return "Tipo da conta" + this.tipoConta + "--" +  "Nome do proprietario da conta: " + this.nome + 
-            "--" + "Saldo da conta: " + this.saldo + "--" + "Credito da conta: " + this.credito;
+            return "Tipo da conta: " + this.tipoConta + " --- " +  "Nome do proprietario da conta: " + this.nome + 
+            " --- " + "Saldo da conta: " + this.saldo + " --- " + "Credito da conta: " + this.credito;
         }
     }
 }
