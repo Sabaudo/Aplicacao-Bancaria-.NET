@@ -7,7 +7,7 @@ namespace BankTransfer.DIO
     {
         static void Main(string[] args){
            List<Conta> listContas = new List<Conta>();
-           int op, inputTipoConta, inputNumConta;
+           int op, inputTipoConta, inputNumConta, inputContaOrigem, inputContaDestino;
            string inputNome;
            double inputSaldo, inputCredito, inputSaque, inputDeposito;
            do{
@@ -47,13 +47,25 @@ namespace BankTransfer.DIO
                     listContas[inputNumConta].Sacar(inputSaque);
                }
                if(op == 3){
-                    Console.WriteLine("Seleciona a conta: ");
+                    Console.WriteLine("Selecione a conta: ");
                     inputNumConta = int.Parse(Console.ReadLine());
                     Console.WriteLine();
                     Console.WriteLine("Insira o valor para depósito: ");
                     Console.WriteLine();
                     inputDeposito = double.Parse(Console.ReadLine());
                     listContas[inputNumConta].Depositar(inputDeposito);
+               }
+               if(op == 4){
+                    Console.WriteLine("Insira a conta de origem: ");
+                    inputContaOrigem = int.Parse(Console.ReadLine());
+                    Console.WriteLine();
+                    Console.WriteLine("Insira a conta de destino: ");
+                    inputContaDestino = int.Parse(Console.ReadLine());
+                    Console.WriteLine();
+                    Console.WriteLine("Digite o valor da transferencia: ");
+                    double inputValorTransf = double.Parse(Console.ReadLine());
+
+                    listContas[inputContaOrigem].Transferencia(inputValorTransf, listContas[inputContaDestino]);
                }
                if(op == 5){
                    foreach(var a in listContas){
